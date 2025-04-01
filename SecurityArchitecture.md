@@ -35,4 +35,4 @@ __CloudTrail 구축__ <br>
 __CloudTrail Cross Account 구축__ <br>
 ![Image](https://github.com/user-attachments/assets/56759245-53bb-4e06-b1e4-e2254e8f502b)
 
-** 그림수정정
+** 그림수정
