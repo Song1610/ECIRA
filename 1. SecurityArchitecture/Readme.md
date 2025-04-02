@@ -1,5 +1,5 @@
 # AWS 보안아키텍처 구축 TEST
-## 작업내용
+## 작업내용 목차
 1. security hub automation 적용
 2. security hub를 통해 수집된 서비스별 이벤트를 식별 및 알림체계 구성
     - 서비스 : guardduty, inspector, config
@@ -15,7 +15,7 @@
 ### Security Hub를 통해 수집된 서비스별 이벤트 식별 및 알림체계 구성
 
 #### 흐름도 및 구성
-__GuardDuty, Inspector, Configs 흐름도__ <br>
+__Security Hub(GuardDuty, Inspector, Configs) 흐름도__ <br>
 ![Image](https://github.com/user-attachments/assets/277cf191-5dd2-4e4d-a30f-4fc55082c69c)
 
 ** 그림 수정
