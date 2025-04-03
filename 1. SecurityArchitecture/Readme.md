@@ -21,6 +21,9 @@ __Security Hub(GuardDuty, Inspector, Configs) 흐름도__ <br>
 ** 그림 수정
 대충 이렇게 구성함
 
+수정
+
+<img width="704" alt="Image" src="https://github.com/user-attachments/assets/54875d25-397b-4ef6-93d2-eb08eb02503e" />
 
 __step function 이용 자동화__ <br>
 ![Image](https://github.com/user-attachments/assets/a5587cfc-bd3e-43b0-ad3d-a14e786b11ba)
