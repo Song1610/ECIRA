@@ -24,12 +24,12 @@ __step function 이용 자동화 구성__ <br>
 
 ** 그림 수정
 
-__CloudTrail 구축__ <br>
+__CloudTrail 기존 구축 흐름도__ <br>
 ![Image](https://github.com/user-attachments/assets/018f6abd-908a-4f81-95be-9ed1472038b2)
 
-** 그림 수정
+__CloudTrail 구축 흐름도(수정)__ <br>
+<img width="625" alt="Image" src="https://github.com/user-attachments/assets/3045513b-9f42-49e0-bf22-dabfd168e884" />
+
 
 __CloudTrail Cross Account 구축__ <br>
-![Image](https://github.com/user-attachments/assets/56759245-53bb-4e06-b1e4-e2254e8f502b)
-
-** 그림수정
+<img width="978" alt="Image" src="https://github.com/user-attachments/assets/4fb72c46-64e5-4a96-9f9c-6f580fe568c7" />
